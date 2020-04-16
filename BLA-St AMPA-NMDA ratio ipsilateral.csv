@@ -1,0 +1,46 @@
+behaviour,type,ratio
+yoked,D2GFP,1.91
+yoked,D2GFP,2.91
+yoked,GFP neg,1.67
+yoked,D2GFP,1.5
+trained,D2GFP,2.99
+trained,GFP neg,2.68
+trained,D2GFP,1.79
+trained,GFP neg,2.02
+yoked,GFP neg,2.54
+yoked,D2GFP,2.94
+yoked,GFP neg,1.42
+yoked,D2GFP,4
+yoked,GFP neg,2
+trained,GFP neg,2.44
+trained,GFP neg,4.03
+trained,D2GFP,3.42
+trained,D2GFP,1.85
+trained,D2GFP,2.88
+trained,GFP neg,2.47
+trained,GFP neg,2.6
+trained,GFP neg,3.1
+trained,D2GFP,3.47
+trained,D2GFP,4.18
+trained,GFP neg,3.95
+trained,D2GFP,4.25
+trained,D2GFP,2.65
+yoked,GFP neg,1.79
+yoked,GFP neg,2.21
+yoked,D2GFP,3.71
+yoked,D2GFP,4.95
+yoked,D2GFP,3.05
+yoked,GFP neg,2.55
+trained,GFP neg,3.98
+trained,GFP neg,3.08
+trained,D2GFP,2.17
+trained,GFP neg,2.41
+trained,D2GFP,1.91
+trained,D2GFP,1.98
+yoked,GFP neg,3.93
+yoked,D2GFP,3.8
+yoked,GFP neg,3.2
+yoked,GFP neg,2.84
+yoked,GFP neg,3.34
+trained,GFP neg,3.47
+trained,GFP neg,3.28

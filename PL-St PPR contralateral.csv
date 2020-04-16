@@ -1,0 +1,21 @@
+behaviour,type,ppr50
+trained,D2GFP,0.3
+trained,D2GFP,0.49
+trained,D2GFP,0.52
+trained,D2GFP,0.84
+trained,GFP neg,0.14
+trained,GFP neg,0.26
+trained,GFP neg,0.57
+trained,GFP neg,0.68
+trained,GFP neg,0.74
+trained,GFP neg,0.95
+yoked,D2GFP,0.17
+yoked,D2GFP,0.19
+yoked,D2GFP,0.2
+yoked,D2GFP,0.27
+yoked,D2GFP,0.34
+yoked,GFP neg,0.16
+yoked,GFP neg,0.16
+yoked,GFP neg,0.3
+yoked,GFP neg,0.31
+yoked,GFP neg,0.34

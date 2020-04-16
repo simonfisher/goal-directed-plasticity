@@ -1,0 +1,51 @@
+animal,type,exp,protocol,lever_min,mag_min,collect_time
+70,yoked,1,SF_Lever-Pellet_Yoked_1,0.0,4.9,6.1
+70,yoked,2,SF_Lever-Pellet_Yoked_2,0.0,2.9,4.0
+70,yoked,3,SF_Lever-Pellet_Yoked_3,0.0,5.7,2.0
+70,yoked,4,SF_Lever-Pellet_Yoked_4,0.0,10.5,2.1
+71,trained,1,SF_Lever-Pellet_CRF,0.8,4.9,2.8
+71,trained,2,SF_Lever-Pellet_RI 15,11.7,7.6,1.7
+71,trained,3,SF_Lever-Pellet_RI 30,21.1,5.2,2.4
+71,trained,4,SF_Lever-Pellet_RI 30_2,27.7,7.1,1.3
+72,yoked,1,SF_Lever-Pellet_Yoked_1,0.0,5.6,10.8
+72,yoked,2,SF_Lever-Pellet_Yoked_2,0.1,20.9,3.7
+72,yoked,3,SF_Lever-Pellet_Yoked_3,0.0,32.6,2.2
+72,yoked,4,SF_Lever-Pellet_Yoked_4,0.0,44.3,3.4
+73,trained,1,SF_Lever-Pellet_CRF,2.8,9.3,5
+73,trained,2,SF_Lever-Pellet_RI 15,9.8,11.4,2.3
+73,trained,3,SF_Lever-Pellet_RI 30,33.2,9.2,1.8
+73,trained,4,SF_Lever-Pellet_RI 30_2,40.6,9.1,1.3
+77,trained,1,SF_Lever-Pellet_CRF,2.2,21.1,3.8
+77,trained,2,SF_Lever-Pellet_RI 15,13.4,12.0,1.6
+77,trained,3,SF_Lever-Pellet_RI 30,24.7,6.1,1.6
+77,trained,4,SF_Lever-Pellet_RI 30_2,32.0,7.3,1.2
+104,trained,1,SF_Lever-Pellet_CRF,1.0,6.6,2.7
+104,trained,2,SF_Lever-Pellet_RI 15,9.5,4.8,3.1
+104,trained,3,SF_Lever-Pellet_RI 30,11.9,4.2,2.6
+104,trained,4,SF_Lever-Pellet_RI 30_2,9.4,1.8,1.5
+105,yoked,1,SF_Lever-Pellet_Yoked_1,0.0,6.5,3.0
+105,yoked,2,SF_Lever-Pellet_Yoked_2,0.0,16.5,3.0
+105,yoked,3,SF_Lever-Pellet_Yoked_3,0.0,11.0,2.7
+105,yoked,4,SF_Lever-Pellet_Yoked_4,0.0,9.4,6.1
+106,yoked,2,SF_Lever-Pellet_Yoked_2,0.0,15.0,1.4
+106,yoked,3,SF_Lever-Pellet_Yoked_3,0.0,29.6,1.4
+106,yoked,4,SF_Lever-Pellet_Yoked_4,0.0,7.6,2.2
+107,trained,1,SF_Lever-Pellet_CRF,1.5,2.4,3.8
+107,trained,2,SF_Lever-Pellet_RI 15,10.9,6.2,2.5
+107,trained,3,SF_Lever-Pellet_RI 30,9.3,3.7,4.4
+107,trained,4,SF_Lever-Pellet_RI 30_2,3.5,4.6,3.9
+108,trained,1,SF_Lever-Pellet_CRF,2.1,8.6,4.1
+108,trained,2,SF_Lever-Pellet_RI 15,3.8,8.5,1.9
+108,trained,3,SF_Lever-Pellet_RI 30,10.7,5.9,1.5
+108,trained,4,SF_Lever-Pellet_RI 30_2,14.9,6.4,2.8
+117,yoked,2,SF_Lever-Pellet_Yoked_2,0.0,22.2,1.9
+117,yoked,3,SF_Lever-Pellet_Yoked_3,0.0,33.6,1.5
+117,yoked,4,SF_Lever-Pellet_Yoked_4,0.0,15.1,2.5
+118,yoked,1,SF_Lever-Pellet_Yoked_1,0.4,10.8,4.8
+118,yoked,2,SF_Lever-Pellet_Yoked_2,0.2,5.6,5.8
+118,yoked,3,SF_Lever-Pellet_Yoked_3,0.5,5.8,2.3
+118,yoked,4,SF_Lever-Pellet_Yoked_4,4.6,12.6,1.7
+119,trained,1,SF_Lever-Pellet_CRF,0.8,7.8,2.4
+119,trained,2,SF_Lever-Pellet_RI 15,23.0,24.1,1.2
+119,trained,3,SF_Lever-Pellet_RI 30,34.1,29.6,0.9
+119,trained,4,SF_Lever-Pellet_RI 30_2,44.9,24.9,0.7

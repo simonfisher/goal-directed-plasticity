@@ -1,0 +1,31 @@
+behaviour,type,ppr50
+trained,D2GFP,0.15
+trained,D2GFP,0.16
+trained,D2GFP,0.22
+trained,D2GFP,0.27
+trained,D2GFP,0.29
+trained,D2GFP,0.42
+trained,D2GFP,0.61
+trained,GFP neg,0.19
+trained,GFP neg,0.2
+trained,GFP neg,0.21
+trained,GFP neg,0.22
+trained,GFP neg,0.27
+trained,GFP neg,0.27
+trained,GFP neg,0.61
+trained,GFP neg,0.98
+yoked,D2GFP,0.21
+yoked,D2GFP,0.24
+yoked,D2GFP,0.27
+yoked,D2GFP,0.27
+yoked,D2GFP,0.46
+yoked,D2GFP,0.48
+yoked,D2GFP,0.51
+yoked,D2GFP,0.58
+yoked,GFP neg,0.14
+yoked,GFP neg,0.15
+yoked,GFP neg,0.19
+yoked,GFP neg,0.2
+yoked,GFP neg,0.27
+yoked,GFP neg,0.32
+yoked,GFP neg,0.4
